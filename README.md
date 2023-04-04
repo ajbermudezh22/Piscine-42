@@ -1,7 +1,8 @@
 # Piscine-42
 
 Table of Content
-Projects	Solutions
+| Projects  | Solutions |
+
 Shell00	100%
 Shell01	100%
 C00	100%
